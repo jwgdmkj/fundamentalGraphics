@@ -1,0 +1,8 @@
+﻿  3.0.3.Simple2DTransformationMotion.cpp
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\objects.h(556,76): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\objects.h(557,85): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\objects.h(559,97): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(51,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'randomCake' 왼쪽은 무시됩니다.
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(130,42): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(185,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  3.0.3.Simple2DTransformationMotion.vcxproj -> C:\Users\is7se\Desktop\수업\그래픽스\210413_OpenGL_Codes\3.0.3.Simple2DTransformationMotion\x64\Debug\3.0.3.Simple2DTransformationMotion.exe
